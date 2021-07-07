@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="TileCrumble_data" version="1.3.0" audacityversion="2.3.2" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="2092.1869892120" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="336023__adamgryu__rocks" channel="0" linked="1" mute="1" solo="0" height="150" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="321195">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808ef7.au" len="262144" min="-1.0" max="0.999969" rms="0.072786"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808603.au" len="59051" min="-0.049377" max="0.048004" rms="0.004235"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="336023__adamgryu__rocks" channel="1" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="321195">
+				<waveblock start="0">
+					<simpleblockfile filename="e08084f0.au" len="262144" min="-0.994629" max="0.958282" rms="0.070335"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808d2a.au" len="59051" min="-0.049377" max="0.048218" rms="0.004236"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="336023__adamgryu__rocks" channel="0" linked="1" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="51391">
+				<waveblock start="0">
+					<simpleblockfile filename="e080834b.au" len="51391" min="-1.0" max="0.999969" rms="0.095757"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="336023__adamgryu__rocks" channel="1" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="51391">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808870.au" len="51391" min="-0.977722" max="0.958282" rms="0.090576"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="336023__adamgryu__rocks" channel="0" linked="1" mute="0" solo="1" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="26912">
+				<waveblock start="0">
+					<simpleblockfile filename="e08082e4.au" len="26912" min="-0.534241" max="0.529175" rms="0.031138"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="336023__adamgryu__rocks" channel="1" linked="0" mute="0" solo="1" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="26912">
+				<waveblock start="0">
+					<simpleblockfile filename="e08082b3.au" len="26912" min="-0.516815" max="0.448364" rms="0.031815"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

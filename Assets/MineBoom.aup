@@ -1,0 +1,91 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="MineBoom_data" version="1.3.0" audacityversion="2.3.2" sel0="0.0000000000" sel1="0.0000000000" vpos="128" h="0.0000000000" zoom="146.2845394051" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="YEAR" value="2009-06-19T02:49:11.00276-07:00"/>
+	</tags>
+	<wavetrack name="165911__deganoth__explosion-1" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="306781">
+				<waveblock start="0">
+					<simpleblockfile filename="e08088fb.au" len="262144" min="-0.914411" max="0.546467" rms="0.044459"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808bdc.au" len="44637" min="-0.00008" max="0.000075" rms="0.000018"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="165911__deganoth__explosion-1" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="306781">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808cd7.au" len="262144" min="-0.846767" max="0.650753" rms="0.044541"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808cdc.au" len="44637" min="-0.000077" max="0.000076" rms="0.000017"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="366088__bevibeldesign__huge-explosion-part-2-impact" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="0.177828" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="575864">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808e08.au" len="262144" min="-0.839264" max="0.975342" rms="0.158254"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808a8c.au" len="262144" min="-0.034668" max="0.030304" rms="0.004429"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0808459.au" len="51576" min="-0.000305" max="0.000305" rms="0.000069"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="366088__bevibeldesign__huge-explosion-part-2-impact" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="0.177828" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="575864">
+				<waveblock start="0">
+					<simpleblockfile filename="e08080b2.au" len="262144" min="-0.859222" max="0.897125" rms="0.164487"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808816.au" len="262144" min="-0.038177" max="0.028748" rms="0.004719"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e080867e.au" len="51576" min="-0.000275" max="0.000305" rms="0.000069"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="336023__adamgryu__rocks" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="48000" gain="0.281838" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="283132">
+				<waveblock start="0">
+					<simpleblockfile filename="e08087e8.au" len="224081" min="-1.0" max="0.999969" rms="0.074895"/>
+				</waveblock>
+				<waveblock start="224081">
+					<simpleblockfile filename="e0808603.au" len="59051" min="-0.049377" max="0.048004" rms="0.004235"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="336023__adamgryu__rocks" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="48000" gain="0.281838" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="283132">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808fd5.au" len="224081" min="-0.994629" max="0.958282" rms="0.071952"/>
+				</waveblock>
+				<waveblock start="224081">
+					<simpleblockfile filename="e08083fa.au" len="59051" min="-0.049377" max="0.048218" rms="0.004236"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
